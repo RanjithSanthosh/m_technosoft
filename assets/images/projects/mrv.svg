@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" fill="none">
+  <defs>
+    <linearGradient id="mrv-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="mrv-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#mrv-bg)"/>
+  <!-- Top browser bar -->
+  <rect width="800" height="42" fill="#0B0F19"/>
+  <circle cx="24" cy="21" r="5" fill="#EF4444"/>
+  <circle cx="40" cy="21" r="5" fill="#F59E0B"/>
+  <circle cx="56" cy="21" r="5" fill="#10B981"/>
+  <rect x="180" y="10" width="440" height="22" rx="6" fill="#1E293B"/>
+  <text x="320" y="25" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">mrvmetalsandfurnitures.vercel.app</text>
+
+  <!-- Navigation header -->
+  <rect y="42" width="800" height="60" fill="#111827" stroke="#1F2937" stroke-width="1"/>
+  <text x="40" y="78" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="18" font-weight="bold">MRV METALS &amp; FURNITURES</text>
+  <text x="480" y="77" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="13">Products</text>
+  <text x="560" y="77" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="13">Specifications</text>
+  <rect x="670" y="56" width="90" height="32" rx="6" fill="url(#mrv-accent)"/>
+  <text x="692" y="77" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Get RFQ</text>
+
+  <!-- Hero banner -->
+  <rect x="40" y="122" width="720" height="150" rx="12" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <text x="70" y="170" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="12" font-weight="bold" letter-spacing="1">INDUSTRIAL FABRICATION &amp; COMMERCIAL SUPPLY</text>
+  <text x="70" y="205" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="24" font-weight="bold">Precision Steel &amp; Institutional Furniture</text>
+  <text x="70" y="235" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Serving schools, hospitals, and industrial facilities across Tamil Nadu.</text>
+
+  <!-- Catalog Grid preview -->
+  <rect x="40" y="292" width="226" height="128" rx="8" fill="#1E293B" stroke="#334155"/>
+  <rect x="52" y="304" width="202" height="68" rx="4" fill="#0F172A"/>
+  <text x="52" y="392" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Modular Lab Desks</text>
+  <text x="52" y="408" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="11">Specification Sheet &rarr;</text>
+
+  <rect x="286" y="292" width="226" height="128" rx="8" fill="#1E293B" stroke="#334155"/>
+  <rect x="298" y="304" width="202" height="68" rx="4" fill="#0F172A"/>
+  <text x="298" y="392" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Industrial Metal Racks</text>
+  <text x="298" y="408" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="11">Specification Sheet &rarr;</text>
+
+  <rect x="532" y="292" width="228" height="128" rx="8" fill="#1E293B" stroke="#334155"/>
+  <rect x="544" y="304" width="204" height="68" rx="4" fill="#0F172A"/>
+  <text x="544" y="392" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Commercial Steel Almirahs</text>
+  <text x="544" y="408" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="11">Specification Sheet &rarr;</text>
+</svg>

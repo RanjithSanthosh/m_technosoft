@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" fill="none">
+  <rect width="800" height="450" fill="#0B132B"/>
+  <rect width="800" height="42" fill="#070A18"/>
+  <circle cx="24" cy="21" r="5" fill="#EF4444"/><circle cx="40" cy="21" r="5" fill="#F59E0B"/><circle cx="56" cy="21" r="5" fill="#10B981"/>
+  <rect x="220" y="10" width="360" height="22" rx="6" fill="#1C2541"/>
+  <text x="315" y="25" fill="#8D99AE" font-family="system-ui, sans-serif" font-size="11">real-estate-two-plum.vercel.app</text>
+
+  <!-- Filter bar -->
+  <rect y="42" width="800" height="60" fill="#1C2541" stroke="#2B3A67"/>
+  <text x="40" y="77" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">PrimeEstates Discovery</text>
+  <rect x="280" y="56" width="130" height="32" rx="6" fill="#0B132B"/>
+  <text x="295" y="76" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Location: All Cities</text>
+  <rect x="425" y="56" width="130" height="32" rx="6" fill="#0B132B"/>
+  <text x="440" y="76" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Type: 2-3 BHK Flats</text>
+  <rect x="570" y="56" width="90" height="32" rx="6" fill="#48CAE4"/>
+  <text x="595" y="76" fill="#03045E" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Filter</text>
+
+  <!-- Grid of Properties -->
+  <rect x="40" y="125" width="225" height="295" rx="10" fill="#1C2541" stroke="#3A506B"/>
+  <rect x="40" y="125" width="225" height="150" rx="10" fill="#2B3A67"/>
+  <text x="55" y="305" fill="#48CAE4" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">₹68.5 Lakhs</text>
+  <text x="55" y="330" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">3 BHK Luxury Apartment</text>
+  <text x="55" y="350" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Saravanampatti, Coimbatore · 1,540 sq.ft</text>
+
+  <rect x="285" y="125" width="225" height="295" rx="10" fill="#1C2541" stroke="#3A506B"/>
+  <rect x="285" y="125" width="225" height="150" rx="10" fill="#2B3A67"/>
+  <text x="300" y="305" fill="#48CAE4" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">₹1.15 Crore</text>
+  <text x="300" y="330" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">Independent Gated Villa</text>
+  <text x="300" y="350" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Race Course, Coimbatore · 2,400 sq.ft</text>
+
+  <rect x="530" y="125" width="225" height="295" rx="10" fill="#1C2541" stroke="#3A506B"/>
+  <rect x="530" y="125" width="225" height="150" rx="10" fill="#2B3A67"/>
+  <text x="545" y="305" fill="#48CAE4" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">₹44.0 Lakhs</text>
+  <text x="545" y="330" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="bold">2 BHK Smart Home</text>
+  <text x="545" y="350" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Avinashi Road, Coimbatore · 1,120 sq.ft</text>
+</svg>
